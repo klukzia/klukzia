@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @klukzia
 - 👀 I’m interested in deez nuts
-- 🌱 I’m currently learning winter wind
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on putting deez nuts in your mouth
 - 📫 Reach me on klukz#0001
 
